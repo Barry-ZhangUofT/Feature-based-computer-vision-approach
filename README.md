@@ -10,5 +10,9 @@ For this study, 16 different widely used commercial plasma atomized metal powder
 ## Description:
 All the models are trained via MATLAB 2021. The vlfeat toolbox can be found and downloaded at http://www.vlfeat.org/.
 
+## Schematics diagram of the generation of feature-based representations:
+![image](https://github.com/Barry-ZhangUofT/Feature-based-computer-vision-approach/assets/65192706/871d6d24-7f20-42e7-8c62-b6527ad1b3d2)
+
+
 
 
